@@ -1,0 +1,1 @@
+(()=>{const e=document.querySelector("#open_menu"),s=document.querySelector("#close_menu"),c=document.querySelector("#header_nav");console.log("Hola"),e.addEventListener("click",(()=>{c.classList.add("show"),c.classList.remove("hide")})),s.addEventListener("click",(()=>{c.classList.add("hide"),c.classList.remove("show")}))})();
